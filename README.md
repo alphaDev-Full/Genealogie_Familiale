@@ -35,7 +35,7 @@ Ce projet en Python permet de gérer et visualiser des arbres généalogiques à
 ### Option 2 — Lancer depuis le code source
 
 1. **Assurez-vous d’avoir Python 3 installé**
-2. **Exécuter le fichier principal:
+2. **Exécuter le fichier principal:**
      python3 genealogie_familiale/genelog.py
 
 

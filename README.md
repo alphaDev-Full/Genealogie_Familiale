@@ -15,7 +15,7 @@ Ce projet en Python permet de gérer et visualiser des arbres généalogiques à
 
 ## 🖼️ Aperçu
 
-<img src="chemin/vers/screenshot.png" alt="Aperçu de l'application" width="500"/>
+<img src="chemin/vers/demo.gif" alt="Aperçu de l'application" width="500"/>
 
 ## 🛠️ Technologies utilisées
 
